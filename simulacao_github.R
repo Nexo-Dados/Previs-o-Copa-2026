@@ -22,7 +22,10 @@ Polymarket <- 0.08
 
 #-- Os betas acima se referem ao impacto de um desvio padrão sobre as probabilidades no confronto direto entre os times. 
 
-#-- O impacto maior é do rating Elo. Calibrei o modelo tendo como base Marrocos e Escócia, assumindo que Marrocos teria uma chance maior do que a Escócia, no grupo do Brasil. Os dois possuem valores de Elo e variação de 1 ano similares. Então, o ajuste foi para que a probabilidade do Marrocos fosse mais alta.
+#-- O impacto maior é do rating Elo.
+# Calibrei o modelo tendo como base Marrocos e Escócia, assumindo que Marrocos teria uma chance maior do que a Escócia, no grupo do Brasil.
+# Os dois possuem valores de Elo e variação de 1 ano similares.
+# Então, o ajuste foi para que a probabilidade do Marrocos fosse mais alta.
 
 
 # Dados e preparação ------------------------------------------------------
